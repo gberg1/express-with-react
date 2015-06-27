@@ -1,0 +1,15 @@
+{
+  "name": "trekrec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.0",
+    "nodemon": "^1.3.7"
+  }
+}
